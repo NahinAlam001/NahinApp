@@ -1,19 +1,19 @@
 {
   "name": "nahinapp",
   "version": "1.0.0",
-  "description": "Eco rest api",
+  "description": "",
   "main": "server.js",
   "type": "module",
   "scripts": {
-    "start": "node server.js",
+    "stat": "node server.js",
     "server": "nodemon server.js"
   },
   "keywords": [],
-  "author": "Nahin",
+  "author": "",
   "license": "MIT",
   "dependencies": {
     "colors": "^1.4.0",
-    "dotenv": "^16.0.3",
+    "dotenv": "^16.3.1",
     "express": "^4.18.2"
   }
 }
